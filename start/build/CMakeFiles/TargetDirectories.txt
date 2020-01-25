@@ -1,0 +1,3 @@
+/Users/eric/Desktop/vs-opencv-workspace/start/build/CMakeFiles/rebuild_cache.dir
+/Users/eric/Desktop/vs-opencv-workspace/start/build/CMakeFiles/edit_cache.dir
+/Users/eric/Desktop/vs-opencv-workspace/start/build/CMakeFiles/CV.dir
